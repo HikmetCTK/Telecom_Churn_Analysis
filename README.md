@@ -1,3 +1,7 @@
 # Churn_Analysis
 Telecom Churn analysis with visualization
-![320acf59256323 5a1be355ee273](https://github.com/user-attachments/assets/324bb394-6bdc-432e-9c1c-b00062f8524c)
+
+![giphy](https://github.com/user-attachments/assets/85deb104-a87a-423f-88c5-236d301f0dba)
+
+
+Methodologies⚙️
