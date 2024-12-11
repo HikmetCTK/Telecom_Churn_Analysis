@@ -9,7 +9,7 @@
 
 This project focuses on analyzing customer churn to identify patterns and insights that help businesses improve customer retention. The analysis utilizes machine learning techniques and statistical analysis to predict which customers are likely to leave a company or service, based on various factors.
 
-Objectives
+# Objectives
 
 The primary objectives of this project are:
 
@@ -21,7 +21,7 @@ To build and evaluate machine learning models for churn prediction.
 
 To provide actionable insights for reducing churn.
 
-Features
+# Features
 
 Exploratory Data Analysis (EDA): Visualizations and statistical summaries to understand customer behavior.
 
@@ -33,7 +33,7 @@ Model Evaluation Metrics: Includes accuracy, precision, recall, F1-score, and RO
 
 Feature Importance Analysis: Identifies the most significant features affecting customer churn.
 
-Dataset
+# 🧪Dataset
 
 The dataset used for this project includes customer demographic information, account details, and service usage statistics. Key features may include:
 
