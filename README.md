@@ -127,9 +127,9 @@ ROC-AUC Score: 86
 # How to Use
 
 Clone the repository:
-
+'''html
 <p> git clone https://github.com/HikmetCTK/Churn_Analysis.git </p>
-
+'''
 Open the Jupyter Notebook churn-analysis.ipynb.
 
 Follow the code cells to reproduce the analysis and results.
