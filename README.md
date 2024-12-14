@@ -3,7 +3,6 @@
 ![Screenshot 2024-12-14 201005](https://github.com/user-attachments/assets/d3b638f4-0fe9-45be-906e-8f74a9f1cabd)
 
 
-![giphy](https://github.com/user-attachments/assets/85deb104-a87a-423f-88c5-236d301f0dba)
 
 
 
