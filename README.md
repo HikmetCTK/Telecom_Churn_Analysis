@@ -139,9 +139,9 @@ Modify the code or dataset to suit your use case.
 
 Integrate additional features such as customer feedback or social media sentiment.
 
-Experiment with advanced models like neural networks.
+Experiment with advanced models like neural networks.✅
 
-Deploy the best-performing model as a web application.
+Deploy the best-performing model as a web application.✅
 
 # Conclusion
 
